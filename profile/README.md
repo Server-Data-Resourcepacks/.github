@@ -1,1 +1,1 @@
-All cata/resource packs for the server and all events
+All data/resource packs for the server and all events
